@@ -35,11 +35,19 @@
 
 ## スキル
 
+- 実務で使用した技術のみ列挙しています。
+
 ### 言語
+
+Java | Kotlin | Go | PHP | Python | JavaScript | TypeScript | HTML | CSS | SQL | Bash
 
 ### フレームワーク等
 
+Struts | Seaser | Doma | Spring Framework | Gin | GORM | Larave | Flask | jQuery | Anguler | Vue.js | Nuxt.js
+
 ### データストア
+
+Oracle | MySQL | PostgreSQL | Redis | Memcached | Elasticsearch
 
 ### クラウド
 
