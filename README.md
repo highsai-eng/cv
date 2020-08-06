@@ -8,6 +8,7 @@
 | 発生地 | 沖縄県 国頭村 |
 | 生息地 | 東京都 品川区 |
 | 生年月日 | 1992年10月26日 |
+| 動作環境 | MacBook Air Processor 1.2GHz Quad-Core Intel Core i7 Memory 16GB |
 | Twitter | [@highsai_eng](https://twitter.com/highsai_eng) |
 |  |  |
 |  |  |
@@ -32,6 +33,9 @@
 | 2016-01 | Java Programmer Silver SE8 |
 
 ## 概要
+
+- 主にWebアプリケーションのフロントエンドとバックエンドの設計及び開発を専門としています。
+- コーポレートサイト等の静的Webページ作成、Wordpress構築、SEO対策も仕事として請け負っています。
 
 ## スキル
 
