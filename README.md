@@ -55,6 +55,8 @@ Oracle | MySQL | PostgreSQL | Redis | Memcached | Elasticsearch
 
 ### その他
 
+Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apache FtpServer | Apache SSHD | Oracle WebLogic Server | nginx | Grunt | Webpack | SASS | Kibana | LDAP | Active Directory | Jenkins | Zabbix | WebSphere MQ | HULFT
+
 ## バリューを発揮しやすい業務
 
 ## 業務経歴
