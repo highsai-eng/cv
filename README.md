@@ -8,7 +8,7 @@
 | 発生地 | 沖縄県国頭村 |
 | 生息地 | 東京都品川区 |
 | 生年月日 | 1992年10月26日 |
-| Twitter | [@poly_soft](https://twitter.com/highsai_eng) |
+| Twitter | [@highsai_eng](https://twitter.com/highsai_eng) |
 |  |  |
 |  |  |
 |  |  |
