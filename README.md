@@ -9,10 +9,10 @@
 | 生息地 | 東京都 品川区 |
 | 生年月日 | 1992年10月26日 |
 | 動作環境 | MacBook Air Processor 1.2GHz Quad-Core Intel Core i7 Memory 16GB |
+| Mail | kaito.higa.free@gmail.com |
+| GitHub | [highsai-eng](https://github.com/highsai-eng) |
 | Twitter | [@highsai_eng](https://twitter.com/highsai_eng) |
-|  |  |
-|  |  |
-|  |  |
+| FaceBook | [kaito.higa.3](https://www.facebook.com/kaito.higa.3) |
 
 ## 職歴
 | started_at | ended_at | workplace | occupation | remarks |
