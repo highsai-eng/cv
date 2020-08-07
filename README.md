@@ -86,8 +86,9 @@ Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apac
 - クラウドアーキテクチャ設計（AWS）
 - インターフェース設計（REST API、ファイル連携、etc.）
 - データモデリング（概念、論理、物理）
-- JavaScriptフレームワークを使用したフロントエンド開発
-- フレームワークを使用したバックエンド開発
+- Angular、Vue.jsを使用したフロントエンド開発
+- Spring、Gin、Laravel使用したバックエンド開発
+- 逐次処理、並列処理のバッチ開発
 - Javaを使用したFTP、SSHDサーバ及びクライアントの開発（需要ある？）
 - 大規模システムリプレイスのコンサルティング業務
 
