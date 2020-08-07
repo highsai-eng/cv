@@ -35,7 +35,10 @@
 ## 概要
 
 - 主にWebアプリケーションのフロントエンドとバックエンドの設計及び開発を専門としています。
-- コーポレートサイト等の静的Webページ作成、Wordpress構築、SEO対策も仕事として請け負っています。
+- フロントエンド開発においては、主にJavaScript、フレームワークとしてはVue.js、Nuxt.jsを用いた豊富な開発経験があります。アトミックデザインや、単体テストの導入も経験しています。
+- バックエンド開発においては、主にJava、Go、PHP、フレームワークとしてはSpring、Gin、Laravelを用いた豊富な開発経験があります。また、データベース設計（論理、物理）の知見を活かしたデータモデリング、クリーンアーキテクチャ、ドメイン駆動設計を用いたアプリケーション設計を得意とし、変更に強いバックエンドアプリケーションを実装できることが強みです。サーバーレスアーキテクチャでの実装も経験しております（主にAWS Lambda, sam）。
+- 小規模〜中規模サービスの新規開発、追加機能開発、リプレイスなどの案件で最もバリューを発揮できます。
+- ごくたまに、コーポレートサイト等の静的Webページ作成、Wordpress構築、SEO対策も仕事として請け負っています。お仕事に関するお問い合わせはTwitterのDMなどからお気軽にどうぞ。
 
 ## スキル
 
@@ -49,9 +52,9 @@ Java | Kotlin | Go | PHP | Python | JavaScript | TypeScript | HTML | CSS | SQL |
 
 Struts | Seaser | Doma | Spring Framework | Gin | GORM | Larave | Flask | jQuery | Anguler | Vue.js | Nuxt.js
 
-### データストア
+### DB/NoSQL
 
-Oracle | MySQL | PostgreSQL | Redis | Memcached | Elasticsearch
+Oracle | MySQL | PostgreSQL | Redis | Memcached | MongoDB | Elasticsearch
 
 ### クラウド
 
