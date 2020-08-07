@@ -89,3 +89,6 @@ Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apac
 - 大規模システムリプレイスのコンサルティング業務
 
 ## 業務経歴
+
+### テレビ視聴率分析サービスの番組組み合わせシミュレーション機能の開発
+
