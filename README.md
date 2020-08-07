@@ -35,7 +35,7 @@
 ## 概要
 
 - 主にWebアプリケーションのフロントエンドとバックエンドの設計及び開発を専門としています。
-- フロントエンド開発においては、主にJavaScript、フレームワークとしてはVue.js、Nuxt.jsを用いた豊富な開発経験があります。アトミックデザインや、単体テストの導入も経験しています。
+- フロントエンド開発においては、主にJavaScript、フレームワークとしてはVue.js、Nuxt.jsを用いた豊富な開発経験があります。アトミックデザインや、Unitテスト、SSRの導入も経験しています。
 - バックエンド開発においては、主にJava、Go、PHP、フレームワークとしてはSpring、Gin、Laravelを用いた豊富な開発経験があります。また、データベース設計（論理、物理）の知見を活かしたデータモデリング、クリーンアーキテクチャ、ドメイン駆動設計を用いたアプリケーション設計を得意とし、変更に強いバックエンドアプリケーションを実装できることが強みです。サーバーレスアーキテクチャでの実装も経験しております（主にAWS Lambda, sam）。
 - 小規模〜中規模サービスの新規開発、追加機能開発、リプレイスなどの案件で最もバリューを発揮できます。
 - ごくたまに、コーポレートサイト等の静的Webページ作成、Wordpress構築、SEO対策も仕事として請け負っています。お仕事に関するお問い合わせはTwitterのDMなどからお気軽にどうぞ。
@@ -75,5 +75,20 @@ GitHub | GitLab | Bitbacket | CircleCI | DataDog | Sentry | FullStory
 Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apache FtpServer | Apache SSHD | Oracle WebLogic Server | nginx | Grunt | Webpack | SASS | Kibana | LDAP | Active Directory | Jenkins | Zabbix | WebSphere MQ | HULFT
 
 ## バリューを発揮しやすい業務
+
+- 全文検索サービスの導入
+- サーバーレスアーキテクチャの導入
+- クリーンアーキテクチャの導入
+- アトミックデザインの導入
+- Jestを使用したフロントエンドUnitテストの導入
+- パッケージマネージャの導入
+- 環境のコンテナ化（Docker化）
+- クラウドアーキテクチャ設計（AWS）
+- インターフェース設計（REST API、ファイル連携、etc.）
+- データモデリング（概念、論理、物理）
+- JavaScriptフレームワークを使用したフロントエンド開発
+- フレームワークを使用したバックエンド開発
+- Javaを使用したFTP、SSHDサーバ及びクライアントの開発（需要ある？）
+- 大規模システムリプレイスのコンサルティング業務
 
 ## 業務経歴
