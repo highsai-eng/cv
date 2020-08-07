@@ -62,13 +62,9 @@ Oracle | MySQL | PostgreSQL | Redis | Memcached | MongoDB | Elasticsearch
 
 VPC | Cloud Front | ELB | ALB | Route53 | IAM | Cloud Watch | EC2 | ECS(Fargate) | API Gateway | Lambda | S3 | ElastiCache(Redis) | RDS(MySQL|PostgreSQL) | Aurora | Redshift | Elasticsearch Service | SQS | SES | Code Pipeline | Amplify | Translate
 
-#### GCP
+### SaaS/PaaS/BaaS
 
-Cloud Functions
-
-### SaaS/PaaS
-
-GitHub | GitLab | Bitbacket | CircleCI | DataDog | Sentry | FullStory
+GitHub | GitLab | Bitbacket | CircleCI | DataDog | Sentry | FullStory | Firebase
 
 ### その他
 
