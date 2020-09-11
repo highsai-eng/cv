@@ -68,7 +68,7 @@ GitHub | GitLab | Bitbacket | CircleCI | DataDog | Sentry | FullStory | Firebase
 
 ### その他
 
-Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apache FtpServer | Apache SSHD | Oracle WebLogic Server | nginx | Grunt | Webpack | SASS | Kibana | LDAP | Active Directory | Jenkins | Zabbix | WebSphere MQ | HULFT
+Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apache FtpServer | Apache SSHD | Oracle WebLogic Server | nginx | Grunt | Webpack | SASS | Kibana | LDAP | Active Directory | Jenkins | Zabbix | WebSphere MQ | HULFT | TestCafe
 
 ## バリューを発揮しやすい業務
 
