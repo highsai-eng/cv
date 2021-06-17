@@ -124,6 +124,8 @@ Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apac
 
 ### 人事評価管理サービスの企画及びPOC（2017年）
 
+処理中。。。
+
 ### インバウンドビジネスサービスのモバイルバックエンド構築及びモバイルアプリの開発（2016年）
 
 処理中。。。
