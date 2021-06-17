@@ -94,7 +94,7 @@ Terraform | Ansible | Docker | Apache httpd | Apache Tomcat | Apache MINA | Apac
 【プロジェクト概要】テレビ視聴率を分析するSaaSサービスの開発及びバッチ処理の開発。
 
 【担当業務】主にフロントエンドとバックエンドの設計、開発を担当。
-使用言語はJavaScript、PHP。フレームワークはVue.js（SSR）、Laravel、Go。
+使用言語はJavaScript、TypeScript、Go、PHP、Python。フレームワークはVue.js（SSR）、Laravel。
 サーバー環境はAWS（ECS/Aurora/Redshift/Redis/API Gateway/Lambda）。
 シミュレーション処理の非同期化のため、一部サーバーレスアプリケーションを導入。
 既存バッチ処理の性能劣化が懸念されていたため、goroutineを使用した並列処理のアーキテクチャを導入。
