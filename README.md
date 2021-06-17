@@ -5,7 +5,6 @@
 | key | value |
 |-|-|
 | 名前 | 比嘉 海斗 |
-| 発生地 | 沖縄県 国頭村 |
 | 生息地 | 東京都 品川区 |
 | 生年月日 | 1992年10月26日 |
 | 動作環境 | MacBook Air Processor 1.2GHz Quad-Core Intel Core i7 Memory 16GB |
